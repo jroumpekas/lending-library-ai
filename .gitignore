@@ -1,0 +1,23 @@
+venv/
+env/
+ENV/
+
+__pycache__/
+
+# VS Code
+.vscode/
+.history/
+
+# Environment variables
+.env
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+venv/
+__pycache__/
+.vscode/
+.history/
+.env
+*.py[cod]
